@@ -1,0 +1,2 @@
+#encoding=gbk
+print("ÄãºÃÖÐ¹ú")
